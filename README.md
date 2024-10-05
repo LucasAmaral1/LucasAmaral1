@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @LucasAmaral1
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 👋 Olá, sou @LucasAmaral1
+- 👀 Estou interessado em Adiquirir conhecimento nas area de Tecnologia.
+- 🌱 Atualmente estou aprendendo Versionamento em GIt e GitHUb
+- 💞️ Procuro colaborar com o crescimenta da area de tecnologia.
+- 📫 Como entrar em contato comigo Linkedin
+- 😄 Pronomes: Ele/Dele
 
 
 <!---
